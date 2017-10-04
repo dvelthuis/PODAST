@@ -13,4 +13,4 @@ By doing so, we can point to the next pixel, which already stores the correct da
 
 # Pseudocode
 
-`in progress`
+`still in progress`
